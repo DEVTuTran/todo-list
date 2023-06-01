@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "description": "React là một thư viện JavaScript front-end mã nguồn mở và miễn phí để xây dựng giao diện người dùng dựa trên các thành phần UI riêng lẻ. Nó được phát triển và duy trì bởi Meta và cộng đồng các nhà phát triển và công ty cá nhân.\n",
+      "id": "2023-06-16T04:33:26.301Z",
+      "dueDate": "2023-06-16T11:33",
+      "status": 0,
+      "title": "ReactJS – Những điều bạn cần phải biết."
+    },
+    {
+      "description": "Vue.js là một framework Javascript được tạo bởi Evan You, giúp chúng ta xây dựng giao diện người dùng cũng như xây dựng Single Page Application thân thiện với người dùng, chúng xây dựng từ các thư viện, cách triển khai component, các chức năng đặc trưng của nó như SFC (Single File Component).",
+      "dueDate": "2023-06-02T23:33",
+      "status": 0,
+      "title": "Một số kiến thức cơ cơ bản về VueJS",
+      "id": "B6cYli_"
+    },
+    {
+      "description": "RTK là một thư viện giúp mình viết Redux tốt hơn, dễ hơn và đơn giản hơn. (tiêu chuẩn để viết Redux).\n",
+      "id": "2023-10-12T04:35:12.040Z",
+      "dueDate": "2023-10-16T11:35",
+      "status": 2,
+      "title": "Tìm hiểu về Redux Toolkit."
+    },
+    {
+      "description": "Đơn giản thì react-query là thư viện để fetching, caching và updating dữ liệu bất đồng bộ của React.",
+      "dueDate": "2023-06-02T22:28",
+      "status": 0,
+      "title": "react-query là gì? Tại sao nên sử dụng react-query?",
+      "id": "wTQloKP"
+    },
+    {
+      "description": "Chắc là ok rồi",
+      "dueDate": "2023-06-09T23:59",
+      "status": 0,
+      "title": "Sửa lần cuối nè",
+      "id": "Qv5Layd"
+    }
+  ]
+}
